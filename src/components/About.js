@@ -10,13 +10,13 @@ export default function About()
             <section className="first_page fp_about_us">
                 <div className="container flex">
                     <div className="about_us_first_page_text fpt">
-                        <h1 className="big_title">о нас</h1>
+                        <h1 className="big_title">про нас</h1>
                         <p className="fp_small_text">Мы специализируемся на создании сайтов для бизнеса. Мы давно на рынке и хорошо понимаем реалии работы. Мы создаем сайты для различных тематик и целей:
                         </p>
                         <ul>
-                            <li>сайт визитка</li>
+                            <li>сайт візитка</li>
                             <li>лендинг пейдж</li>
-                            <li>интернет магазин</li>
+                            <li>інтернет магазин</li>
                             <li>сложный портал</li>
                         </ul>
                         <p className="discription_text">Также приводим целевых клиентов с помощью:</p>
