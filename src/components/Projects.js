@@ -10,8 +10,8 @@ export default function Projects()
         <section className="first_page fp_projects">
             <div className="container flex">
                 <div className="projects_first_page_text">
-                    <h1 className="big_title">наши проекты</h1>
-                    <p className="fp_small_text">За 5 лет работы создание сайтов нам доверило более 300 клиентов из Украины, России, Казахстана, Чехии, Кипра, Германии, Литвы, Латвии, Китая и других стран. Более 80% созданных в веб студии сайтов остаются в Dealko на техническую поддержку , поисковое SEO продвижение и заказывают контекстную рекламу. Яркие лендинги , уникальные сайты-визитки, функциональные интернет-магазины и высоконагруженные корпоративные порталы - вот некоторые сайты наших партнеров, созданием которых мы гордимся.</p>
+                    <h1 className="big_title">наші проекти</h1>
+                    <p className="fp_small_text">Яскраві лендинги, унікальні сайти-візитки, функціональні інтернет-магазини та високонавантажені корпоративні портали – ось деякі сайти наших партнерів, створенням яких ми пишаємося.</p>
                 </div>
                 <div className="projects_img"></div>
             </div>
@@ -25,12 +25,28 @@ export default function Projects()
 
         <section className="our_projects">
             <div className="container flex flex_col flex_m">
-                <h2 className="small_title">наши проекты</h2>
+                <h2 className="small_title">наші проекти</h2>
                 <div className="our_projects_content flex flex_c">
+                     <div className="our_projects_card">
+                        <div className="our_projects_card_info flex flex_c flex_m center">
+                            <a href="">
+                                <p>Betonko</p>
+                            </a>
+                        </div>
+                        <img src="https://lh3.googleusercontent.com/p/AF1QipOKKPPOjcalfmPDgR_WJjEmwvWCMdkBe6dPZoqA=s1360-w1360-h1020" alt=""/>
+                    </div>
                     <div className="our_projects_card">
                         <div className="our_projects_card_info flex flex_c flex_m center">
                             <a href="">
-                                <p>Название проекта</p>
+                                <p>Techniko</p>
+                            </a>
+                        </div>
+                        <img src="https://lh3.googleusercontent.com/p/AF1QipPGA40LBMqnJ4R8m0aeXpdO1UPEGOg0TCXjQYuC=s1360-w1360-h1020" alt=""/>
+                    </div>
+                    <div className="our_projects_card">
+                        <div className="our_projects_card_info flex flex_c flex_m center">
+                            <a href="">
+                                <p>SportStore55</p>
                             </a>
                         </div>
                         <img src="https://designhooks.com/wp-content/uploads/2019/01/OnPaste.20190121-202854.png" alt=""/>
@@ -38,7 +54,7 @@ export default function Projects()
                     <div className="our_projects_card">
                         <div className="our_projects_card_info flex flex_c flex_m center">
                             <a href="">
-                                <p>Название проекта</p>
+                                <p>Назва проекту</p>
                             </a>
                         </div>
                         <img src="https://designhooks.com/wp-content/uploads/2019/01/OnPaste.20190121-202854.png" alt=""/>
@@ -46,7 +62,7 @@ export default function Projects()
                     <div className="our_projects_card">
                         <div className="our_projects_card_info flex flex_c flex_m center">
                             <a href="">
-                                <p>Название проекта</p>
+                                <p>Назва проекту</p>
                             </a>
                         </div>
                         <img src="https://designhooks.com/wp-content/uploads/2019/01/OnPaste.20190121-202854.png" alt=""/>
@@ -54,23 +70,7 @@ export default function Projects()
                     <div className="our_projects_card">
                         <div className="our_projects_card_info flex flex_c flex_m center">
                             <a href="">
-                                <p>Название проекта</p>
-                            </a>
-                        </div>
-                        <img src="https://designhooks.com/wp-content/uploads/2019/01/OnPaste.20190121-202854.png" alt=""/>
-                    </div>
-                    <div className="our_projects_card">
-                        <div className="our_projects_card_info flex flex_c flex_m center">
-                            <a href="">
-                                <p>Название проекта</p>
-                            </a>
-                        </div>
-                        <img src="https://designhooks.com/wp-content/uploads/2019/01/OnPaste.20190121-202854.png" alt=""/>
-                    </div>
-                    <div className="our_projects_card">
-                        <div className="our_projects_card_info flex flex_c flex_m center">
-                            <a href="">
-                                <p>Название проекта</p>
+                                <p>Назва проекту</p>
                             </a>
                         </div>
                         <img src="https://designhooks.com/wp-content/uploads/2019/01/OnPaste.20190121-202854.png" alt=""/>
@@ -88,8 +88,8 @@ export default function Projects()
         <section className="order_site order_site_pr">
             <div className="container flex flex_m flex_c">
                 <div className="order_site_content center">
-                    <h2 className="small_title">где заказать сайт?</h2>
-                    <p className="discription_text">Конечно же у нас! Dealko станет надёжным партнёром Вашего бизнеса. За нас говорят опыт и выполненные работы, отзывы клиентов и профессионализм сотрудников, погружение в проект и работа на результат.
+                    <h2 className="small_title">де замовити сайт?</h2>
+                    <p className="discription_text">Звісно ж у нас! Dealko стане надійним партнером вашого бізнесу. За нас говорять досвід та виконані роботи, відгуки клієнтів та професіоналізм співробітників, занурення у проект та робота на результат.
                     </p>
                 </div>
                 <div className="order_site_photo"></div>

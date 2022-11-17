@@ -36,7 +36,7 @@ export default function Reviews()
         <section className="customer_reviews" style={{ paddingTop: '50px' }}>
             <div className="customer_reviews_photo"></div>
             <div className="container flex  flex_e">
-                <h2 className="small_title center">отзывы клиентов</h2>
+                <h2 className="small_title center">відгуки клієнтів</h2>
                 
                 <div className="reviews_slider_wrap">
 

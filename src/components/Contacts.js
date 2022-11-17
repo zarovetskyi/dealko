@@ -10,8 +10,8 @@ export default function Contacts()
         <section class="first_page fp_contacts">
             <div class="container flex">
                 <div class="contacts_first_page_text">
-                    <h1 class="big_title ">контакты</h1>
-                    <p class="fp_small_text">Вы можете связаться с нами по указанным телефонам или отправить нам сообщение, используя форму обратной связи.</p>
+                    <h1 class="big_title ">контакти</h1>
+                    <p class="fp_small_text">Ви можете зв'язатися з нами за вказаними телефонами або надіслати нам повідомлення, використовуючи форму зворотного зв'язку.</p>
                 </div>
                 <div class="contacts_img"></div>
             </div>
@@ -25,16 +25,16 @@ export default function Contacts()
 
         <section class="get_consultation">
             <div class="container flex flex_c">
-                <h3 class="small_title center">ПОЛУЧИТЕ КОНСУЛЬТАЦИЮ</h3>
+                <h3 class="small_title center">ОТРИМАЄТЕ КОНСУЛЬТАЦІЮ</h3>
                 <div class="get_consultation_content flex flex_sa flex_m">
                     <div class="get_consultation_info center">
-                        <h5>ОПИШИТЕ ВАШ ПРОЕКТ</h5>
-                        <p class="discription_text">Наши специалисты свяжуться  в ближайщее время</p>
-                        <input type="text" class="discription_text center" placeholder="Имя"/>
+                        <h5>ОПИШІТЬ ВАШ ПРОЕКТ</h5>
+                        <p class="discription_text">Наші фахівці зв'яжуться найближчим часом</p>
+                        <input type="text" class="discription_text center" placeholder="Ім'я"/>
                         <input type="text" class="discription_text center" placeholder="E-mail"/>
                         <input type="text" class="discription_text center" placeholder="Телефон"/>
-                        <textarea name="" class="discription_text center" placeholder="Вопрос / комментарий" id=""></textarea>
-                        <button>ОТПРАВИТЬ</button>
+                        <textarea name="" class="discription_text center" placeholder="Запитання / коментар" id=""></textarea>
+                        <button>НАДІСЛАТИ</button>
                     </div>
                     <div class="get_consultation_photo"></div>
                 </div>
@@ -47,7 +47,7 @@ export default function Contacts()
 
         <section class="how_work">
             <div class="container">
-                <h2 class="small_title center">как мы работаем</h2>
+                <h2 class="small_title center">як ми працюємо</h2>
                 <div class="how_work_content flex flex_sb">
                     <div class="how_work_card flex flex_col flex_m">
                         <h5>Подача заявки</h5>
@@ -55,47 +55,47 @@ export default function Contacts()
                             <span>D</span>
                             <img src="img/letter_and_photo1.png" alt=""/>
                         </div>
-                        <p class="discription_text center">Заполните форму заявки на сайте</p>
+                        <p class="discription_text center">Заповніть форму заявки на сайті</p>
                     </div>
                     <div class="how_work_card flex flex_col flex_m">
-                        <h5>Обработка заявки</h5>
+                        <h5>Обробка заявки</h5>
                         <div class="letter_and_photo">
                             <span>E</span>
                             <img src="img/letter_and_photo2.png" alt=""/>
                         </div>
-                        <p class="discription_text center">Мы позвоним Вам обсудим проект</p>
+                        <p class="discription_text center">Ми зателефонуємо Вам обговоримо проект</p>
                     </div>
                     <div class="how_work_card flex flex_col flex_m">
-                        <h5>Заполнение брифа</h5>
+                        <h5>Заповнення брифу</h5>
                         <div class="letter_and_photo">
                             <span>A</span>
                             <img src="img/letter_and_photo3.png" alt=""/>
                         </div>
-                        <p class="discription_text center">Мы отправим бриф для заполнения</p>
+                        <p class="discription_text center">Ми надішлемо бриф для заповнення</p>
                     </div>
                     <div class="how_work_card flex flex_col flex_m">
-                        <h5>Разработка прототипа</h5>
+                        <h5>Розробка прототипу</h5>
                         <div class="letter_and_photo">
                             <span>L</span>
                             <img src="img/letter_and_photo4.png" alt=""/>
                         </div>
-                        <p class="discription_text center">Разработаем прототип будущего сайта</p>
+                        <p class="discription_text center">Розробимо прототип майбутнього сайту</p>
                     </div>
                     <div class="how_work_card flex flex_col flex_m">
-                        <h5>Отрисовка дизайна</h5>
+                        <h5>Відмальовування дизайну</h5>
                         <div class="letter_and_photo">
                             <span>K</span>
                             <img src="img/letter_and_photo5.png" alt=""/>
                         </div>
-                        <p class="discription_text center">Отрисовка дизайна макета по прототипу</p>
+                        <p class="discription_text center">Відмальовування дизайну макету по прототипу</p>
                     </div>
                     <div class="how_work_card flex flex_col flex_m">
-                        <h5>Вёрстка макета</h5>
+                        <h5>Верстка макета</h5>
                         <div class="letter_and_photo">
                             <span>O</span>
                             <img src="img/letter_and_photo6.png" alt=""/>
                         </div>
-                        <p class="discription_text center">Установка сайта на домен и хостинг</p>
+                        <p class="discription_text center">Встановлення сайту на домен та хостинг</p>
                     </div>
                 </div>
             </div>
@@ -106,8 +106,8 @@ export default function Contacts()
         <section class="order_site order_site_pr">
             <div class="container flex flex_m flex_c">
                 <div class="order_site_content center">
-                    <h2 class="small_title">где заказать сайт?</h2>
-                    <p class="discription_text">Конечно же у нас! Dealko станет надёжным партнёром Вашего бизнеса. За нас говорят опыт и выполненные работы, отзывы клиентов и профессионализм сотрудников, погружение в проект и работа на результат.
+                    <h2 class="small_title">де замовити сайт?</h2>
+                    <p class="discription_text">Звісно ж у нас! Dealko стане надійним партнером вашого бізнесу. За нас говорять досвід та виконані роботи, відгуки клієнтів та професіоналізм співробітників, занурення у проект та робота на результат.
                     </p>
                 </div>
                 <div class="order_site_photo"></div>

@@ -14,14 +14,14 @@ export default function NavBar()
                         </Link>
                         
                         <nav>
-                            <Link to="/about">о нас</Link>
-                            <Link to="/services">услуги</Link>
-                            <Link to="/projects">проекты</Link>
-                            <Link to="/contacts">контакты</Link>
+                            <Link to="/about">про нас</Link>
+                            <Link to="/services">послуги</Link>
+                            <Link to="/projects">проекти</Link>
+                            <Link to="/contacts">контакти</Link>
                         </nav>
-                        <button className="yellow_button">начать проект</button>
+                        <button className="yellow_button">почати проект</button>
                         <div className="choose_language flex flex_col flex_m">
-                            <a href="" className="choose_language_active">ru</a>
+                            <a href="" className="choose_language_active">ua</a>
                             <div className="square flex flex_c flex_m flex_col">
                                 <div></div>
                                 <div></div>
@@ -40,12 +40,12 @@ export default function NavBar()
                             <div className="burger_menu_content_block flex flex_col flex_m flex_c">
                                 <div className="burger_menu_content_info">
                                     <nav className="burger_menu_content_nav flex flex_col flex_m">
-                                        <Link to="/about">о нас</Link>
-                                        <Link to="/services">услуги</Link>
-                                        <Link to="/projects">проекты</Link>
-                                        <Link to="/contacts">контакты</Link>
+                                        <Link to="/about">про нас</Link>
+                                        <Link to="/services">послуги</Link>
+                                        <Link to="/projects">проекти</Link>
+                                        <Link to="/contacts">контакти</Link>
                                     </nav>
-                                    <button className="yellow_button">начать проект</button>
+                                    <button className="yellow_button">почати проект</button>
                                     <div className="choose_language_bmci flex flex_sa flex_m">
                                         <a href="" className="choose_language_bmci_active">ru</a>
                                         <div className="square flex flex_c flex_m flex_col">
