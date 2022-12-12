@@ -1,0 +1,65 @@
+<!DOCTYPE html/>
+
+
+
+<html>
+
+
+
+<head>
+	<meta charset="windows-1251"/>
+
+	<title>Dealko - Web Studio</title>
+	<link rel="icon" type="image/x-icon" href="icons8.ico">
+
+
+
+</head>
+
+
+
+	<body style="padding-top: 50px; margin-left: 125px; margin-right: 30px; font-size: 24px; font-family: 'Courier New', monospace;">
+
+		<div style="width: 800px;">
+
+		<img src="files/dealko_logo.jpg" style="height: 200px; padding-bottom: 20px;">
+
+		</div>
+
+		<div style="padding-left: 5px; width: auto;">
+
+		<h1>Nasza strona jeszcze tworzy sie :)</h1>
+
+
+
+
+
+		<p>Wkrotce strona naszej firmy bedzie opublikowana.</p>
+
+
+
+		<p>Jesli potrzebujesz strone internetowa, <br> Skontaktuj z nami <span>&#128071;</span></p>
+
+			<ul>
+
+				<li style="color: #7D3C98;"><b>team@dealko.com.ua</b></p></li>
+
+				<li style="color: #F1C40F;"><b>+48 536 104 205</b></li>
+
+			</ul>
+
+
+
+		<p><b>Dowiedz sie wiecej <a href="" target="_blank">tutaj</a></b><br><br>
+
+		<b><a href="index.html">EN</a></b>  <b><a href="index-pl.html">PL</a></b></p>
+
+		</div>
+
+
+
+	</body>
+
+
+
+</html>
